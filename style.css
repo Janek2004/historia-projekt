@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.responsive-img {
+  max-width: 100%;
+  height: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  padding: .5rem!important;
+  padding-left: 1rem!important;
+  border-radius: 24px;
+  background-color: #6c757d;
+  color: white;
+}
