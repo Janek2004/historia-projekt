@@ -13,9 +13,5 @@ h1 {
 }
 
 h2 {
-  padding: .5rem!important;
-  padding-left: 1rem!important;
-  border-radius: 24px;
-  background-color: #6c757d;
-  color: white;
+  color: black;
 }
